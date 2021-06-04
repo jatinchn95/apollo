@@ -1,0 +1,29 @@
+.searched-words {
+  padding: 5px 30px;
+  .searched{
+    display: flex;
+    min-height: 70px;
+
+    .first-person {
+      margin-right: 10px;
+      font-size: 20px;
+      color: mediumpurple !important;
+    }
+
+    .second-person {
+      margin-right: 10px;
+      font-size: 20px;
+      color: cornflowerblue !important;
+    }
+
+  }
+  .gray-box {
+    border-left: 1px solid #B5BDBD;
+    height: 50px;
+  }
+
+  .muted-text-span {
+    font-size: 18px;
+    margin-left: 10px;
+  }
+}
